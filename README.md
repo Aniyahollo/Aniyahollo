@@ -2,6 +2,24 @@
 #### Design and Development
 ![Design and Development](https://github.com/Aniyahollo/Aniyahollo/blob/main/Copy%20of%20Kyobi%20School%20of%20the%20Arts.png)
 
+
+
+## Skills
+Software: Tableau, EAGLE, Altium, COMSOL, SolidWorks, Adobe Photoshop, SketchUp, 3D Slicer, Simulink, 
+Wondershare Filmora, Microsoft Word, Excel, PowerPoint, XLSTAT, Basecamp, Slack, Teams, SharePoint, GIS
+Programing languages: RStudio, MATLAB, Python, C++
+Languages: Persian (Fluent), German (Fluent), English (Fluent), Dutch (Basic)
+Project management: budgeting, regulatory compliance, experimental design, program development, outreach, data 
+analysis
+Management: management of small teams of 2-10 people, supervision, planning, providing feedback, facilitating 
+meetings, leading and mentoring staff
+Communications: Grant writing, scientific and technical writing, public speaking and presenting, training,
+entrepreneurial zeal
+
+
+
+
+
 I am an accomplished Ph.D. graduate in Mechanical Engineering, specializing in "Personal Exposure to Air Pollution Using Wearable Monitors" from the University of Colorado Boulder. My academic journey also includes dual Master's degrees in Mechanical Engineering and Electrical Engineering, reflecting my commitment to diverse and impactful contributions in the field.
 
 In the academic realm, my research at CU Boulder's Miller Research Group delves into the intricacies of personal exposure to particulate matter air pollution. From managing and analyzing the validation of consumer-grade exposure monitors to studying air quality in disproportionately impacted residential communities, my work extends beyond academia to address real-world environmental challenges.
