@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, my name is Aniya Khalili Hollo
+#### Design and Development
+![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 I am an accomplished Ph.D. graduate in Mechanical Engineering, specializing in "Personal Exposure to Air Pollution Using Wearable Monitors" from the University of Colorado Boulder. My academic journey also includes dual Master's degrees in Mechanical Engineering and Electrical Engineering, reflecting my commitment to diverse and impactful contributions in the field.
 
 In the academic realm, my research at CU Boulder's Miller Research Group delves into the intricacies of personal exposure to particulate matter air pollution. From managing and analyzing the validation of consumer-grade exposure monitors to studying air quality in disproportionately impacted residential communities, my work extends beyond academia to address real-world environmental challenges.
@@ -11,5 +14,10 @@ In the corporate world, I contributed to the development of innovative solutions
 
 Proficient in an array of software and programming languages, multilingual, and adept at project management, I am eager to connect with like-minded professionals, explore new opportunities, and contribute my skills to projects that make a meaningful impact. Let's connect and explore the possibilities of collaboration!
 
+Skills: Software: WordPress,Tableau, EAGLE, Altium, COMSOL, SolidWorks, Adobe Photoshop, SketchUp, 3D Slicer, Simulink,  Wondershare Filmora, Microsoft Word, Excel, PowerPoint, XLSTAT, Basecamp, Slack, Teams, SharePoint, GIS Programing languages: RStudio, MATLAB, Python, C++ Languages: Persian (Fluent), German (Fluent), English (Fluent), Dutch (Basic) Project management: budgeting, regulatory compliance, experimental design, program development, outreach, data  analysis Management: management of small teams of 2-10 people, supervision, planning, providing feedback, facilitating  meetings, leading and mentoring staff Communications: Grant writing, scientific and technical writing, public speaking and presenting, training, entrepreneurial zeal
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniyahollo)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
+
+
+
+
