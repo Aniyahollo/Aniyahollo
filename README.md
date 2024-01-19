@@ -10,4 +10,6 @@ I am not just an engineer; I am a dedicated educator, having served as a Graduat
 In the corporate world, I contributed to the development of innovative solutions in the automotive industry and explored the frontiers of functional safety in powertrain electronics systems. My involvement in the German Culture Society of Colorado and participation in the Femtec Network's career-building program further underscore my commitment to diversity and collaboration.
 
 Proficient in an array of software and programming languages, multilingual, and adept at project management, I am eager to connect with like-minded professionals, explore new opportunities, and contribute my skills to projects that make a meaningful impact. Let's connect and explore the possibilities of collaboration!
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniyahollo)](https://github.com/anuraghazra/github-readme-stats)
