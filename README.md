@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aniya Khalili Hollo
 #### Design and Development
-![Design and Development]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Aniyahollo/Aniyahollo/blob/main/Copy%20of%20Kyobi%20School%20of%20the%20Arts.pdf))
+![Design and Development]([[https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Aniyahollo/Aniyahollo/blob/main/Copy%20of%20Kyobi%20School%20of%20the%20Arts.pdf](https://github.com/Aniyahollo/Aniyahollo/blob/main/Copy%20of%20Kyobi%20School%20of%20the%20Arts.png)))
 
 I am an accomplished Ph.D. graduate in Mechanical Engineering, specializing in "Personal Exposure to Air Pollution Using Wearable Monitors" from the University of Colorado Boulder. My academic journey also includes dual Master's degrees in Mechanical Engineering and Electrical Engineering, reflecting my commitment to diverse and impactful contributions in the field.
 
